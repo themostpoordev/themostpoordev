@@ -20,6 +20,7 @@
 
 - 🗿 Just a poor dev who likes writing code at 3 AM (electricity is cheaper at night)
 - 🦀 **Rust** enthusiast — if it's not Rust, I'm still writing Rust
+- ⚡ Codes with [opencode](https://opencode.ai) — AI coding agent, part of my daily workflow
 - 🤖 Runs local LLM servers with [llama.cpp](https://github.com/ggml-org/llama.cpp) (llama-server) on my VPS
 - 🤖 Builds Discord bots for fun (mod, welcome, death log monitor) to run my own server
 
