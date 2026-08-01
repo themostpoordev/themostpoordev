@@ -22,7 +22,6 @@
 - 🦀 **Rust** enthusiast — if it's not Rust, I'm still writing Rust
 - 🤖 Runs local LLM servers with [llama.cpp](https://github.com/ggml-org/llama.cpp) (llama-server) on my VPS
 - 🤖 Builds Discord bots for fun (mod, welcome, death log monitor) to run my own server
-- ☁️ Hoards stuff on a cramped 8GB VPS
 
 ## Tech stack
 
