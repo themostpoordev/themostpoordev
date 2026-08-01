@@ -52,8 +52,9 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themostpoordev&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themostpoordev&layout=compact&theme=radical&hide_border=true" alt="Top langs" />
+  <img src="https://img.shields.io/github/followers/themostpoordev?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=1d1d1d&color=6e5494" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/themostpoordev?style=for-the-badge&logo=github&logoColor=white&label=Total%20stars&labelColor=1d1d1d&color=6e5494" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=themostpoordev&style=for-the-badge&label=PROFILE+VIEWS&color=6e5494" alt="Profile views" />
 </p>
 
 ## Contact
