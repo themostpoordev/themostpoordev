@@ -20,6 +20,7 @@
 
 - 🗿 Just a poor dev who likes writing code at 3 AM (electricity is cheaper at night)
 - 🦀 **Rust** enthusiast — if it's not Rust, I'm still writing Rust
+- 🤖 Runs local LLM servers with [llama.cpp](https://github.com/ggml-org/llama.cpp) (llama-server) on my VPS
 - 🤖 Builds Discord bots for fun (mod, welcome, death log monitor) to run my own server
 - ☁️ Hoards stuff on a cramped 8GB VPS
 
@@ -35,6 +36,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
+  <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=llamacpp&logoColor=white" alt="llama.cpp" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Discord%20API-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API" />
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
