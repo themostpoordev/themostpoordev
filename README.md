@@ -16,34 +16,34 @@
 
 ---
 
-## เกี่ยวกับฉัน (About me)
+## About me
 
-- 🗿 เป็นแค่ dev ที่ยากจนคนหนึ่งที่ชอบเขียนโค้ดตอน 3 ทุ่ม เพราะตอนนั้นมันราคาถูก (ค่าไฟถูกกว่า)
-- 🦀 ชอบเขียน **Rust** จริงจัง — ถ้าไม่ใช้ Rust ก็ยังเขียน Rust อยู่ดี
-- 🎮 เป็นเจ้าของเซิร์ฟเวอร์ Minecraft ชื่อ **Toilet SMP** (hardcore, ตายแล้วจบ)
-- 🤖 สร้าง Discord bots เล่น ๆ ทั้งต๊ะ มอด ยาม ไว้ดูแลเซิร์ฟเวอร์ตัวเอง
-- ☁️ ชอบเก็บของไว้บน VPS 8GB ที่คับแคบหัวใจ
+- 🗿 Just a poor dev who likes writing code at 3 AM (electricity is cheaper at night)
+- 🦀 **Rust** enthusiast — if it's not Rust, I'm still writing Rust
+- 🎮 Owner of a Minecraft server called **Toilet SMP** (hardcore, you die = you're done)
+- 🤖 Builds Discord bots for fun (mod, welcome, death log monitor) to run my own server
+- ☁️ Hoards stuff on a cramped 8GB VPS
 
-## สิ่งที่ทำอยู่ (Projects)
+## Projects
 
-| โปรเจกต์ | ภาษา | รายละเอียด |
-|---------|------|-----------|
-| [discord-mod-rs](https://github.com/themostpoordev/discord-mod-rs) | 🦀 Rust | บอทดูแล Discord น้ำหนักเบา — 21 กฎตรวจจับ, SQLite, เพิ่มโทษอัตโนมัติ |
-| [Bot_rust_hybrid-bot](https://github.com/themostpoordev/Bot_rust_hybrid-bot) | 🦀 Rust | Hybrid bot ขับเคลื่อนด้วย Rust |
-| [website_tmpd](https://github.com/themostpoordev/website_tmpd) | ⚡ TypeScript | เว็บไซต์ส่วนตัว (themostpoordev.top) |
-| [register](https://github.com/themostpoordev/register) | 🟨 JavaScript | บริการ subdomain .is-a.dev น่ารัก ๆ |
+| Project | Language | Description |
+|---------|----------|-------------|
+| [discord-mod-rs](https://github.com/themostpoordev/discord-mod-rs) | 🦀 Rust | Lightweight Discord moderation bot — 21 detection rules, SQLite, auto-escalation |
+| [Bot_rust_hybrid-bot](https://github.com/themostpoordev/Bot_rust_hybrid-bot) | 🦀 Rust | Rust-powered hybrid bot |
+| [website_tmpd](https://github.com/themostpoordev/website_tmpd) | ⚡ TypeScript | Personal website (themostpoordev.top) |
+| [register](https://github.com/themostpoordev/register) | 🟨 JavaScript | Grab a sweet-looking '.is-a.dev' subdomain |
 
-## สถิติ (Stats)
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=themostpoordev&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themostpoordev&layout=compact&theme=radical&hide_border=true" alt="Top langs" />
 </p>
 
-## ติดต่อ (Contact)
+## Contact
 
-- 🌐 เว็บไซต์: [themostpoordev.top](https://themostpoordev.top)
-- ⛏️ Minecraft: `mc.themostpoordev.top` (Toilet SMP — hardcore, เข้ามาได้ทั้ง Java กับ Bedrock)
+- 🌐 Website: [themostpoordev.top](https://themostpoordev.top)
+- ⛏️ Minecraft: `mc.themostpoordev.top` (Toilet SMP — hardcore, Java & Bedrock supported)
 - 💬 Discord: `@themostpoordev`
 
 ---
