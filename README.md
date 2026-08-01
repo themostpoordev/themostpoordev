@@ -20,7 +20,6 @@
 
 - 🗿 Just a poor dev who likes writing code at 3 AM (electricity is cheaper at night)
 - 🦀 **Rust** enthusiast — if it's not Rust, I'm still writing Rust
-- 🎮 Owner of a Minecraft server called **Toilet SMP** (hardcore, you die = you're done)
 - 🤖 Builds Discord bots for fun (mod, welcome, death log monitor) to run my own server
 - ☁️ Hoards stuff on a cramped 8GB VPS
 
@@ -47,7 +46,6 @@
 |---------|----------|-------------|
 | [discord-mod-rs](https://github.com/themostpoordev/discord-mod-rs) | 🦀 Rust | Lightweight Discord moderation bot — 21 detection rules, SQLite, auto-escalation |
 | [Bot_rust_hybrid-bot](https://github.com/themostpoordev/Bot_rust_hybrid-bot) | 🦀 Rust | Rust-powered hybrid bot |
-| [website_tmpd](https://github.com/themostpoordev/website_tmpd) | ⚡ TypeScript | Personal website (themostpoordev.top) |
 | [register](https://github.com/themostpoordev/register) | 🟨 JavaScript | Grab a sweet-looking '.is-a.dev' subdomain |
 
 ## Stats
@@ -60,7 +58,6 @@
 ## Contact
 
 - 🌐 Website: [themostpoordev.top](https://themostpoordev.top)
-- ⛏️ Minecraft: `mc.themostpoordev.top` (Toilet SMP — hardcore, Java & Bedrock supported)
 - 💬 Discord: `@themostpoordev`
 
 ---
