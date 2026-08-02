@@ -53,8 +53,6 @@
 |---------|----------|-------------|
 | [discord-mod-rs](https://github.com/themostpoordev/discord-mod-rs) | 🦀 Rust | Lightweight Discord moderation bot — 21 detection rules, SQLite, auto-escalation |
 | [nova-9](https://github.com/themostpoordev/nova-9) | 🦀 Rust + SvelteKit | AI mission control chat — agent loop (plan/draft/review/polish) via Groq, starship bridge UI |
-| [Bot_rust_hybrid-bot](https://github.com/themostpoordev/Bot_rust_hybrid-bot) | 🦀 Rust | Rust-powered hybrid bot |
-| [register](https://github.com/themostpoordev/register) | 🟨 JavaScript | Grab a sweet-looking '.is-a.dev' subdomain |
 
 ## Stats
 
