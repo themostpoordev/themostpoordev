@@ -2,7 +2,7 @@
   <img src="https://github.com/themostpoordev.png" width="120" height="120" alt="themostpoordev" style="border-radius:50%" />
 </p>
 
-<h1 align="center">poordev</h1>
+<h1 align="center">Ikayu</h1>
 
 <p align="center">
   <b>the most poor dev on Earth</b> 🗿
