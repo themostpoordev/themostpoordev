@@ -49,8 +49,7 @@
 | Project | Language | Description |
 |---------|----------|-------------|
 | [discord-mod-rs](https://github.com/themostpoordev/discord-mod-rs) | 🦀 Rust | Lightweight Discord moderation bot — 21 detection rules, SQLite, auto-escalation |
-| [Bot_rust_hybrid-bot](https://github.com/themostpoordev/Bot_rust_hybrid-bot) | 🦀 Rust | Rust-powered hybrid bot |
-| [register](https://github.com/themostpoordev/register) | 🟨 JavaScript | Grab a sweet-looking '.is-a.dev' subdomain |
+
 
 ## Stats
 
