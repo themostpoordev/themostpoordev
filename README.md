@@ -53,13 +53,14 @@
 |---------|----------|-------------|
 | [discord-mod-rs](https://github.com/themostpoordev/discord-mod-rs) | 🦀 Rust | Lightweight Discord moderation bot — 21 detection rules, SQLite, auto-escalation |
 | [nova-9](https://github.com/themostpoordev/nova-9) | 🦀 Rust + SvelteKit | AI mission control chat — agent loop (plan/draft/review/polish) via Groq, starship bridge UI |
+| [dtop](https://github.com/themostpoordev/dtop) | 🦀 Rust | btop-inspired terminal monitor for Docker — live CPU/memory/network stats, logs, events, safe actions |
 
 ## Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/themostpoordev?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=1d1d1d&color=6e5494" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/themostpoordev?style=for-the-badge&logo=github&logoColor=white&label=Total%20stars&labelColor=1d1d1d&color=6e5494" alt="GitHub stars" />
-  <img src="https://komarev.com/ghpvc/?username=themostpoordev&style=for-the-badge&label=PROFILE+VIEWS&color=6e5494" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=themostpoordev&style=for-the-badge&label=PROFILE%20VIEWS&color=6e5494" alt="Profile views" />
 </p>
 
 ## Contact
