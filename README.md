@@ -5,10 +5,6 @@
 <h1 align="center">Ikayu</h1>
 
 <p align="center">
-  <b>the most poor dev on Earth</b> 🗿
-</p>
-
-<p align="center">
   <a href="https://discord.com/users/1023926176097513484"><img src="https://img.shields.io/badge/Discord-Ikayu%20(%40wouldyouguarantee)-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
   <img src="https://img.shields.io/badge/status-hustling%207%2F24-ffca28" alt="Status" />
   <img src="https://img.shields.io/badge/coffee%20powered-true-6f4e37" alt="Coffee powered" />
